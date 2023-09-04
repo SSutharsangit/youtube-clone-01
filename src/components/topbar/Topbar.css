@@ -1,0 +1,13 @@
+.topbar{
+    display: flex;
+    gap: 5px;
+}
+.topbar .item{
+    padding: 10px ;
+    background-color:whitesmoke;
+    border-radius: 5px;
+}
+.topbar .item:nth-child(1){
+    background-color: black;
+    color: white;
+}
